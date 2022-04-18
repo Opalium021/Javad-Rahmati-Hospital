@@ -1,0 +1,1 @@
+SELECT distinct date from visits
